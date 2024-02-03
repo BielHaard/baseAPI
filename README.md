@@ -48,4 +48,4 @@ spring.datasource.driver-class-name=org.postgresql.Driver
 
 
 ---
-⌨️ com ❤️ por [Júlio Gabriel Garcia]([https://github.com/linkParaPerfil](https://github.com/BielHaard/)) 😊
+⌨️ with ❤️ by [Júlio Gabriel Garcia]([https://github.com/linkParaPerfil](https://github.com/BielHaard/)) 😊
