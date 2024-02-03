@@ -24,14 +24,14 @@ Have only one step to intall and run, configurate your application.propperties t
 
 how? 
 
+
+
+```
 application.properties
 spring.datasource.url=jdbc:postgresql://localhost:5432/nome_do_banco
 spring.datasource.username=seu_usuario
 spring.datasource.password=sua_senha
 spring.datasource.driver-class-name=org.postgresql.Driver
-
-```
-Dar exemplos
 ```
 
 ## 📦 Implementation
@@ -40,8 +40,10 @@ Adicione notas adicionais sobre como implantar isso em um sistema ativo
 
 ## 🛠️ Make by
 
+´´´
 * [Springboot](https://docs.spring.io/spring-framework/reference/index.html) - O framework web usado
 * [Maven](https://maven.apache.org/) - Gerente de Dependência
+´´´
 
 ## 📌 Versão
 
