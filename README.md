@@ -43,9 +43,9 @@ spring.datasource.driver-class-name=org.postgresql.Driver
 
 ## ✒️ Autor
 
-* **Júlio Gabriel Garcia** - *Initial work* - [BielHaard]([https://github.com/BielHaard/](https://github.com/BielHaard/))
-* **Júlio Gabriel Garcia** - *Documentation* - [BielHaard]([https://github.com/BielHaard/](https://github.com/BielHaard/))
+* **Júlio Gabriel Garcia** - *Initial work* - [BielHaard]([https://github.com/BielHaard/)
+* **Júlio Gabriel Garcia** - *Documentation* - [BielHaard](https://github.com/BielHaard/)
 
 
 ---
-⌨️ with ❤️ by [Júlio Gabriel Garcia]([https://github.com/linkParaPerfil](https://github.com/BielHaard/)) 😊
+⌨️ with ❤️ by [Júlio Gabriel Garcia](https://github.com/BielHaard/) 😊
