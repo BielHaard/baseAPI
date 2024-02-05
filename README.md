@@ -33,7 +33,7 @@ spring.datasource.driver-class-name=org.postgresql.Driver
 ## 🛠️ Make by
 
 
-* [Springboot](https://docs.spring.io/spring-framework/reference/index.html) - Used  Framework
+* [Springboot](https://docs.spring.io/spring-framework/reference/index.html) - Framework
 * [Maven](https://maven.apache.org/) - Dependencies Magnament
 
 
@@ -43,8 +43,8 @@ spring.datasource.driver-class-name=org.postgresql.Driver
 
 ## ✒️ Autor
 
-* **Júlio Gabriel Garcia** - *Trabalho Inicial* - [BielHaard]([https://github.com/linkParaPerfil](https://github.com/BielHaard/))
-* **Júlio Gabriel Garcia** - *Documentação* - [BielHaard]([https://github.com/linkParaPerfil](https://github.com/BielHaard/))
+* **Júlio Gabriel Garcia** - *Initial work* - [BielHaard]([https://github.com/BielHaard/](https://github.com/BielHaard/))
+* **Júlio Gabriel Garcia** - *Documentation* - [BielHaard]([https://github.com/BielHaard/](https://github.com/BielHaard/))
 
 
 ---
